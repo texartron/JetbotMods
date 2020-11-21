@@ -13,4 +13,4 @@ Well my printer needs a lot of babysitting to get a fully finished part so I had
 
 The other big advantage is there is very little supports that have to be printed.
 
-I am not associated with Vnidia in any way and this is open and not for sale.
+I am not associated with Nvidia in any way and this is open and not for sale.
